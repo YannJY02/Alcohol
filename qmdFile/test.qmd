@@ -1,0 +1,19 @@
+---
+title: "Alcohol"
+format: html
+editor: visual
+eval: TRUE
+echo: FALSE
+warning: FALSE
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+#| label: import data file
+
+```
+
+11
